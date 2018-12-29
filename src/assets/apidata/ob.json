@@ -1,0 +1,8 @@
+[
+  {
+    "title":"abc","post" :[ {"id":1,"name":"Vaibhav","email":"vaibhavbhandare31@gmail.com","age":23},
+        {"id":2,"name":"Shiva","email":"shivaurane1@gmail.com","age":25},
+        {"id":3,"name":"Sandeep","email":"avangerx@gmail.com","age":28},
+        {"id":4,"name":"Atul","email":"atulpotdar@gmail.com","age":27}]
+  }
+]
