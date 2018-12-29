@@ -27,7 +27,7 @@ export class ObService {
 
   putcustomer(update):Observable<any>                         // update data
   {
-     return this.http.put(this.url+update.id,update)
+     return this.http.patch(this.url+update.id,update)
   }
 
 }
